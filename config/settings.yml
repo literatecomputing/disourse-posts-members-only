@@ -1,4 +1,4 @@
 plugins:
-  plugin_name_enabled:
+  posts_members_only_enabled:
     default: true
     client: true
